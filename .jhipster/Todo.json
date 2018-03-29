@@ -1,0 +1,24 @@
+{
+    "fluentMethods": true,
+    "relationships": [],
+    "fields": [
+        {
+            "fieldName": "title",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "description",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "finished",
+            "fieldType": "Boolean"
+        }
+    ],
+    "changelogDate": "20180303021121",
+    "dto": "no",
+    "service": "no",
+    "entityTableName": "todo",
+    "jpaMetamodelFiltering": false,
+    "pagination": "pagination"
+}

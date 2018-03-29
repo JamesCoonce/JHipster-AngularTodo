@@ -1,0 +1,24 @@
+
+{
+    "jhipsterApp": {
+        "todo" : {
+            "home": {
+                "title": "Todos",
+                "createLabel": "Criar novo Todo",
+                "createOrEditLabel": "Criar ou editar Todo"
+            },
+            "created": "Um novo Todo foi criado com o identificador {{ param }}",
+            "updated": "Um Todo foi atualizado com o identificador {{ param }}",
+            "deleted": "Um Todo foi deletado com o identificador {{ param }}",
+            "delete": {
+                "question": "Tem certeza de que deseja excluir Todo {{ id }}?"
+            },
+            "detail": {
+                "title": "Todo"
+            },
+            "title": "Title",
+            "description": "Description",
+            "finished": "Finished"
+        }
+    }
+}
